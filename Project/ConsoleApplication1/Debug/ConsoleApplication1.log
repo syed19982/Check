@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(18,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(67,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(105,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(146,21): warning C4584: 'Menu': base-class 'Accountinfo' is already a base-class of 'Withdraw'
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(8): message : see declaration of 'Accountinfo'
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(94): message : see declaration of 'Withdraw'
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(146,21): warning C4584: 'Menu': base-class 'Accountinfo' is already a base-class of 'Deposit'
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(8): message : see declaration of 'Accountinfo'
+C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\ConsoleApplication1\ConsoleApplication1.cpp(55): message : see declaration of 'Deposit'
+  ConsoleApplication1.vcxproj -> C:\Users\babyn\OneDrive\Documents\Desktop\Syed\Oop\Project\Project\Debug\ConsoleApplication1.exe
